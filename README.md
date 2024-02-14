@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mustafadagda
-- 👀 I’m interested in html-css-js
-- 🌱 I’m currently learning html-css
+- 👀 I’m interested in html-css-js -Bootstrap - Git - GitHup
+- 🌱 I’m currently learning vueJS - NodeJS - PostMan - 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mustafadagda38@gmail.com
 
